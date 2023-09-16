@@ -22,7 +22,7 @@
 
 ## 发货系统：API对接发货平台，无需囤货，玩家获得饰品可秒取回，实现了网站自动发货。
 
-<img width="300" src="https://github.com/Meta-NFT-boy/csgo-code/blob/main/statics/20230816212548.png">
+<img width="300" src="https://github.com/aimdreamboy/csgo-code/blob/main/statics/20230816212548.jpg">
 
 
 ## 合作交流，项目答疑
